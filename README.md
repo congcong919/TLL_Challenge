@@ -23,5 +23,8 @@ The images were scraped from the website and automatically resized/cropped to 20
 some images may have borders, overlaid text, or other artefacts. Images are not guaranteed to be
 unique – a “left” image could appear multiple times in the dataset with different “right” matches, or
 vice versa. Because the images were collected from the internet, they may contain inappropriate or
-offensive content.
+offensive content.<br><br>
+
+
+Dataset link: https://drive.google.com/drive/folders/1ltlWnv5GAa8Ms-cEjOMJwwJBKs7-npJN?usp=drive_link 
 
