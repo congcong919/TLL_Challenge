@@ -9,7 +9,7 @@ at random from the test set. Your algorithm should evaluate each of these 20 pos
 attempt to predict which one is the true “right” image for the given “left” image. The candidates are
 given in the file test candidates.csv. <br><br>
 
-***Taining hint***
+***Taining hint***<br>
 In this project, use pre-trained model for feature extraction, and construct Siamese Neural Network based on existing CNN.<br> 
 Instead, you can train your own model, by setting up a similar task using the training dataset: for each training
 “left” image you could select a set of 20 candidates which includes the ground truth “right” image
